@@ -1,6 +1,11 @@
-.contact-link {
-    width: 50px;
-    border-radius: 25px;
-    background-color: #adb5bd ;
-    margin: auto;
+.contact-link:hover {
+    background-color: #7393B3;
+}
+
+.nav-bg {
+    background-color: #71797E;
+}
+
+.link-hover:hover {
+    color: #7393B3;
 }
